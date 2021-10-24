@@ -1,0 +1,56 @@
+name: my_secretary
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.0-178.1.beta <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flare_splash_screen: ^4.0.0
+  font_awesome_flutter: any
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/animation/ #image icon media folder
+    - assets/
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
